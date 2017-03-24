@@ -1,0 +1,19 @@
+{
+  "name": "Google1yr",
+  "version": "0.1",
+  "description": "Resets the default timeframe of Google to 1yr. If you want to change the search time windows, it will respect that, but the default will now be 1yr. Extremely lightweight and open source.",
+  "background": { 
+     "page":"bg.html"
+     },
+  "icons": {
+    "16": "icon.png"
+  },
+   "manifest_version": 2,
+   "content_scripts": [
+   {
+     "matches": ["http://*/*", "https://*/*"],
+     "js": ["content.js"]
+   }
+   ],
+  "permissions": ["tabs"]
+}
