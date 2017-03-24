@@ -1,11 +1,14 @@
-#WHAT#
+WHAT
+---
 This is the Google 1yr Chrome Extension. 
 It resets the default timeframe of Google to 1yr. 
 
-#HOW#
+HOW
+---
 If you want to change the search time windows, it will respect that, but the default will now be 1yr. Extremely lightweight and open source.
 
-#WHY#
+WHY
+---
 some users (like myself) do more searches and care about current content rather than searching "all time" of google. 
 
 For example, developers often prefer having recent answers to their questions as it is more likely to be relevant. 
@@ -14,10 +17,12 @@ We waste a lot of time clicking the little dropdown in google because the defaul
 
 This extension fixes that.
 
-#WHO#
+WHO
+---
 This is swyx's first chrome extension. source code is hosted at: <https://github.com/sw-yx/google1yr-extension>
 
-#WHEN#
+WHEN
+---
 released march 24 2017.
 
 #MORE#
