@@ -9,7 +9,7 @@ If you want to change the search time windows, it will respect that, but the def
 
 WHY
 ---
-some users (like myself) do more searches and care about current content rather than searching "all time" of google. 
+following [a discussion on Reddit](https://www.reddit.com/r/webdev/comments/5m51dr/a_lot_of_people_told_me_i_can_learn_webdev_online/dc2my2f/?context=3), I realized some users (like myself) do more searches and care about current content rather than searching "all time" of google. 
 
 For example, developers often prefer having recent answers to their questions as it is more likely to be relevant. 
 
@@ -25,8 +25,9 @@ WHEN
 ---
 released march 24 2017.
 
-#MORE#
-check out urlrewrite: <https://github.com/sjmulder/urlrewrite-chrome>
+more
+---
+if you need a more powerful extension with arbitrary redirects, check out urlrewrite: <https://github.com/sjmulder/urlrewrite-chrome>. this extension is just meant to do one thing well.
 
 how to build this: 
 ---
